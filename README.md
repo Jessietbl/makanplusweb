@@ -68,6 +68,4 @@ More in-depth financial literacy and nutrition content tailored to diverse user 
 
 With MAKAN+, we aspire to create a more sustainable, efficient, and inclusive food system in Malaysia—one that not only curbs waste but also enriches communities through education and innovative technology.
 
-Feel free to adjust any sections to better match your vision and progress. This version provides a clear, engaging summary that highlights the unique value and potential impact of your project for the Asia Impact Hackathon.
-
 View the app live at https://makanplus.vercel.app/
